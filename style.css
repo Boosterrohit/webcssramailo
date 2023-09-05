@@ -89,6 +89,7 @@ body {
   }
   .header-tag h1 {
     font-size: 32px !important;
+    order: 2;
   }
   .para {
     font-size: 12px;
@@ -96,7 +97,6 @@ body {
   .card {
     width: 100% !important;
     display: flex;
-    flex-wrap: wrap;
     margin: 0 20px;
     flex-direction: column;
   }
