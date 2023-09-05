@@ -84,8 +84,8 @@ body {
     display: none;
   }
   .header-image {
-    width: 70px !important;
-    height: 70px !important;
+    width: 150px !important;
+    height: 150px !important;
   }
   .header-tag h1 {
     font-size: 32px !important;
